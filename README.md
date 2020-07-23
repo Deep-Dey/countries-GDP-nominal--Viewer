@@ -11,7 +11,7 @@ A scrapper to download(as CSV) and view GDP details of all countries
 Clone the repository to your local machine using,
  
 ```
-~$ git clone https://github.com/Deep-Dey/Time-Calculation-for-Sorting-Algorithms.git
+~$ git clone https://github.com/Deep-Dey/countries-GDP-nominal--Viewer.git
 ```
 ## Environment Setup
 To install all dependencies at once, move into project directory and run,
