@@ -16,9 +16,9 @@ Clone the repository to your local machine using,
 ## Environment Setup
 To install all dependencies at once, move into project directory and run,
 ## Linux/Mac OS
-~$ pip3 install -r dependencies.txt
+~$ pip3 install -r Dependencies.txt
 ## Windows OS
-~$ pip install -r dependencies.txt
+~$ pip install -r Dependencies.txt
 ## Run/Execute
 * Just execute/run the "**GDP_Scrap.py**" file to get the output using any IDE.
 
