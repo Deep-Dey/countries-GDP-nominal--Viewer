@@ -22,7 +22,7 @@ headings = []
 for td in gdp_table_data[0].find_all("td"):
     headings.append(td.b.text.replace('\n', ' ').strip())
 
-i=int(input("Press 1 to view COVID-19 details\nPress any key to Store only details as CSV..."))
+i=int(input("Press 1 to view GDP details\nPress any key to Store only details as CSV..."))
 
 data = {}
 for table, heading in zip(gdp_table_data[1].find_all("table"), headings):
